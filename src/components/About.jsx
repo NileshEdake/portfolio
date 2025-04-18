@@ -17,7 +17,7 @@ const education = [
   {
     degree: "B.Tech in AI & Data Science",
     duration: "2021 – Present",
-    place: "Sharad Institute, Yadrav, Kolhapur",
+    place: "Sharad Institute Of Technology College Of Engineering",
     cgpa: "CGPA: 6.9",
   },
   {
