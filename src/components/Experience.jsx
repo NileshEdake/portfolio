@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 0435827 (Your commit message)
 import React from 'react';
 import mothersonLogo from "../images/motherson.png";
 import excelrLogo from "../images/excelR.png";
@@ -33,7 +29,7 @@ const Experience = () => {
   return (
     <section id="experience" className="bg-gray-950 text-white py-20 px-6">
       <div className="max-w-6xl mx-auto space-y-20">
-        
+
         {/* Work Experience Section */}
         <div>
           <h2 className="text-3xl font-bold text-blue-500 mb-12 text-center">
